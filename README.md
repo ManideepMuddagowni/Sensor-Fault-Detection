@@ -19,3 +19,7 @@
 ![High Level Code Flow](https://user-images.githubusercontent.com/66520928/199005448-b571046d-3436-4675-a90d-77848062fd0e.png)
 
 <h2> Tech Stack Used </h2>
+
+<h6>1. Python</h6>
+<h6>2. Kafka</h6>
+<h6>3. MongoDB</h6>
