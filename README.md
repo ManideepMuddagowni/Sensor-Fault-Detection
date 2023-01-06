@@ -17,3 +17,5 @@
 <h2>High Level Code Flow</h2>
 
 ![High Level Code Flow](https://user-images.githubusercontent.com/66520928/199005448-b571046d-3436-4675-a90d-77848062fd0e.png)
+
+<h2> Tech Stack Used </h2>
