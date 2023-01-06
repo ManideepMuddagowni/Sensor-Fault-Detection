@@ -20,6 +20,9 @@
 
 <h2> Tech Stack Used </h2>
 
-<h6>1.Python</h6>
-<h6>2.Kafka</h6>
-<h6>3.MongoDB</h6>
+1. Python
+2. Kafka
+3. MongoDB
+4. FastAPI
+5. Machine learning algorithms
+6. Docker
