@@ -20,6 +20,6 @@
 
 <h2> Tech Stack Used </h2>
 
-<h6>1. Python</h6>
-<h6>2. Kafka</h6>
-<h6>3. MongoDB</h6>
+<h6>1.Python</h6>
+<h6>2.Kafka</h6>
+<h6>3.MongoDB</h6>
