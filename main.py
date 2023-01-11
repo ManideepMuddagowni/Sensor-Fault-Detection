@@ -1,6 +1,7 @@
 from sensor.configuration.mongo_db_connection import MongoDBClient
 from sensor.exception import SensorException
-import os
+import os, sys
+from sensor.logger import logging
 
 def test_exception():
     try:
@@ -17,6 +18,6 @@ if __name__ == '__main__':
 
 if __name__ == '__main__':
 
-    
+
     ## mongodb_client = MongoDBClient()
     ## print(mongodb_client.database.list_collection_names())
