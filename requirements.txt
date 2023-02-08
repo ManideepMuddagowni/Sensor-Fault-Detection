@@ -1,6 +1,7 @@
 pymongo[srv]==4.2.0
 from-root
 scikit-learn==1.1.3
+datetime
 ## -e . does the same thing as find packages
 -e .
 
