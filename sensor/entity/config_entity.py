@@ -35,5 +35,5 @@ class DataIngestionConfig:
         )
         self.train_test_split_ratio: float = os.path.join(
             self.data_ingestion_dir, training_pipeline.DATA_INGESTION_TRAIN_TEST_SPLIT_RATIO
-        )
-        self.collection_name: str = training_pipeline.DATA_INGESTION_COLLECTION_NAME
+        )  
+        self.collection_name: str = DATA_INGESTION_COLLECTION_NAME

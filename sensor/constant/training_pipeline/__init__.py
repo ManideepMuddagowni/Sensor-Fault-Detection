@@ -40,6 +40,7 @@ DATA_INGESTION_FEATURE_STORE: str = 'feature_store'
 Dividing the data into train test split and store it in the ingested folder
 '''
 DATA_INGESTION_INGESTED_DIR: str = 'ingested'
+
 DATA_INGESTION_TRAIN_TEST_SPLIT_RATIO: float = '0.2'
 
 
